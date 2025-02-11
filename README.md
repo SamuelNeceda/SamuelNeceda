@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋🏼;+I'm+Samuel+Nečeda!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋🏼;+I'm+Samuel+Neceda!;" />
 </h1>
 
 <h2 align="center">👨‍💻 Passionate Backend Software Engineer</h2>
@@ -22,11 +22,11 @@
 
 </div>
 <br>
-<h2 align="center"> 💡Hackathons, Cybersecurity & Tutoring </h2>
-
-🏅 I participated in multiple **hackathons**! Check out my projects on [![Devpost Profile](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white&logoWidth=20)](https://devpost.com/samuel-neceda?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+<h2 align="center"> 💡Cybersecurity, Hackathons & Tutoring </h2>
 
 🔐 I have been conducting **research in cybersecurity**, focusing on its **education and CTF challenges**.  
+
+🏅 I participated in multiple **hackathons**! Check out my projects on [![Devpost Profile](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white&logoWidth=20)](https://devpost.com/samuel-neceda?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 🎓 I’m also passionate about **tutoring programming**.  
 <br>
